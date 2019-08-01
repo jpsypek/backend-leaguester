@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sport: MyString
+  sex: MyString
+  organization: one
+  day: MyString
+  season: MyString
+
+two:
+  sport: MyString
+  sex: MyString
+  organization: two
+  day: MyString
+  season: MyString
